@@ -15,7 +15,7 @@ Features
 
 About
 ---------
-Originally developed by me (Shane Israel) as a simple means to share screenshots online with friends, Snipping Tool++ has since grown and has been downloaded by more than 35,000 people world wide and featured on multiple websites including LifeHacker. Snipping Tool++ is still being developed and ideas are still being implemented.
+Originally developed by me (Shane Israel) as a simple means to share screenshots online with friends, Snipping Tool++ has since grown and has been downloaded by more than 35,000 people world wide and featured on multiple websites including [LifeHacker](https://lifehacker.com/snipping-tool-easily-sends-windows-screenshot-snippet-30775430).
 
 Websites & Contact
 --------
